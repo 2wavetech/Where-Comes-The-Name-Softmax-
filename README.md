@@ -1,5 +1,6 @@
 
 # Softmax的名字是怎么来的？
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
 When I was learning multiclass classifiers such as SVM and Neural Networks, "Softmax" came across to my mind with some mystery in its name. I was wondering why it was named so, and whether there was "Hardmax" function being its brother or even ancestor. I checked it out on Wikipedia but failed to find any useful information there (https://en.wikipedia.org/wiki/Softmax_function). There was the same question about Softmax's name on Quora and one of the answers, to my memory, revealed some part of the mystery. However, I cannot find that Quora link anymore.
 
