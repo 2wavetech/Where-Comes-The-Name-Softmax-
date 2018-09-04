@@ -17,7 +17,7 @@ where $s_{j}$ and $s_{i}$ are classification scores of the _j-th_ and _i-th_ ele
 
 Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition has a very good explanation of the above loss function. Please check it out here http://cs231n.github.io/linear-classify/#softmax.
 
-And here is an example from it: ![%E5%9B%BE%E7%89%87.png](attachment:%E5%9B%BE%E7%89%87.png)
+And here is an example from it: ![http://cs231n.github.io/assets/imagemap.jpg]
 
 Wikipedia has Hinge Loss as well https://en.wikipedia.org/wiki/Hinge_loss.
 
